@@ -6,6 +6,7 @@ This is a Python code for a web application that classifies mushrooms as edible 
 
 ## Choosing the Classifier: 
 
+<img width="550" alt="Screen Shot 2023-05-01 at 2 42 14 AM" src="https://user-images.githubusercontent.com/67872328/235381495-ec2fb904-1192-4be3-a0ec-3d9e8d65d144.png">
 
 The classifier options are shown in the sidebar, and when a classifier is selected, the hyperparameters of the model can be chosen.
 
