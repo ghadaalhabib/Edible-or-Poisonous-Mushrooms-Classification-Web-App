@@ -3,7 +3,7 @@ This is a Python code for a web application that classifies mushrooms as edible 
 
 The dataset is included for your reference.
 
-How to run the app?
+### How to run the app?
 
 Type in the terminal: Streamlit run app.py
 
