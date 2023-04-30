@@ -1,9 +1,11 @@
 # Edible-or-Poisonous-Mushrooms-Classification-Web-App
 This is a Python code for a web application that classifies mushrooms as edible or poisonous using machine learning models.
+
+
 ![Screen Shot 2023-05-01 at 2 36 33 AM](https://user-images.githubusercontent.com/67872328/235381292-b0d9de4c-1932-4477-bae2-b53e2678d4e2.png)
 
 ## Choosing the Classifier: 
-<img width="1440" alt="Screen Shot 2023-05-01 at 2 36 33 AM 2" src="https://user-images.githubusercontent.com/67872328/235381295-aa44384e-6d40-4c04-83ff-ce2a7ccce872.png">
+<img width="550" alt="Screen Shot 2023-05-01 at 2 36 33 AM 2" src="https://user-images.githubusercontent.com/67872328/235381295-aa44384e-6d40-4c04-83ff-ce2a7ccce872.png">
 
 The classifier options are shown in the sidebar, and when a classifier is selected, the hyperparameters of the model can be chosen.
 
