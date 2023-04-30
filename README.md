@@ -4,7 +4,7 @@ This is a Python code for a web application that classifies mushrooms as edible 
 
 <img width="1000" alt="Screen Shot 2023-05-01 at 2 36 33 AM" src="https://user-images.githubusercontent.com/67872328/235381292-b0d9de4c-1932-4477-bae2-b53e2678d4e2.png">
 
-## Choosing the Classifier: 
+## Classifier Selection: 
 
 <img width="550" alt="Screen Shot 2023-05-01 at 2 42 14 AM" src="https://user-images.githubusercontent.com/67872328/235381495-ec2fb904-1192-4be3-a0ec-3d9e8d65d144.png">
 
